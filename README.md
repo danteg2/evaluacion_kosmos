@@ -1,6 +1,8 @@
-El proyecto se compone de las capas MVC
+SpringBoot Maven 17
 Gestor Base de Datos: MariaDB
 Nombre Base de Datos: medical_office
+
+El proyecto se compone de las capas MVC
 
 Entidades del proyecto:
 Person
